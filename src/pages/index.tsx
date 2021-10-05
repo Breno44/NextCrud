@@ -1,4 +1,4 @@
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 
 export default function Home() {
   return (
@@ -10,7 +10,7 @@ export default function Home() {
     `}
     >
       <Layout titulo="Cadastro Simples">
-        <div className="p-6">Conteudo</div>
+        <div>Conteudo</div>
       </Layout>
     </div>
   );
